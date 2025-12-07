@@ -2,7 +2,7 @@
 
 Une application web de vote pour les étudiants de l'ENSA Safi, permettant de voter "Yes" ou "No" sur différents événements proposés.
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
 -  **Authentification** avec Firebase (email universitaire)
 -  **Affichage des événements** depuis Firestore
